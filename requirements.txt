@@ -1,0 +1,13 @@
+# requirements.txt
+
+gradio
+langchain
+langchain-openai
+langchain-upstage
+langchain-ollama
+langchain-community
+faiss-cpu
+python-dotenv
+numpy
+scikit-learn
+ollama
