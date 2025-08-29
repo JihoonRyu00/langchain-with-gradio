@@ -205,6 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< HEAD
 
 *.faiss
 *.pkl
+=======
+>>>>>>> 33c325eec91f7e04348f4891ac7c3a25a49a882d
